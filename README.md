@@ -45,7 +45,7 @@
 
 <div align="center">
 <br><br>
-<img src="assets/teaser.png" width="100%">
+<img src="assets/teaser2.png" width="100%">
 <br><br>
 </div>
 
