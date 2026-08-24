@@ -1,0 +1,7 @@
+fix: Spelling error in the README
+
+- README.md: 'intellegence'->'intelligence'
+
+Fixes #2
+
+Signed-off-by: Vedant Madane <6527493+VedantMadane@users.noreply.github.com>
